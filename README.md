@@ -1,7 +1,7 @@
 PT - BR: Esse jogo foi criado com a intenção de aplicar os conceitos estudados da linguagem C para aprimorar meus conhecimentos e ganhar experiência prática.
 O jogo é baseado no Pac-Man, onde um herói precisa pegar pílulas enquanto foge de fantasmas. As pílulas não se acumulam, então, ao pegar uma pílula, o herói deve buscar algum fantasma que esteja a um raio de ação para destruí-los.
 Para mover o herói, basta digitar uma das letras usadas nos jogos de fps em geral: 'W', 'A', 'S' ou 'D' e pressionar enter.
-Para explodir a pílula, deve-se pressionar a letra 'B' e depois enter. Ao efetuar o download da pasta do jogo, basta clicar duas vezes no seu executável "fogefoge.exe" para executá-lo.
+Para explodir a pílula, deve-se pressionar a letra 'B' e depois enter. Ao efetuar o download da pasta do jogo, basta clicar duas vezes no seu executável "fogefoge.exe" para executá-lo (O executável deve estar dentro da pasta com os outros arquivos).
 Caso faça alguma alteração no código e queira compilar os arquivos, abra o cmd e entre na pasta do jogo com o comando: cd "nome_da_pasta". Ao entrar, digite: gcc fogefoge.c mapa.c ui.c -o fogefoge.exe.
 Pronto, compilado, basta executar o arquivo pela própria pasta ou digitar foge-foge.exe.
 
